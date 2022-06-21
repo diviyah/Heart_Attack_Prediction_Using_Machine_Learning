@@ -61,7 +61,8 @@ Questions:
         Used Cramers'V to select categorical features with more than 50% accuracy as well
 
 ![boxplot_heart](https://user-images.githubusercontent.com/105897390/174783642-8982636d-4a8f-4a23-86ea-070a3cbd5df6.png)
-
+![output](https://user-images.githubusercontent.com/105897390/174786416-25cd8162-a380-4287-8780-540f8331ba28.png)
+The target variable namely output is considered balanced.
 
 ### MODEL DEVELOPMENT
      Built machine learning model using both pipeline and GridSearchCV methods.
