@@ -55,6 +55,8 @@ Questions:
         The data didnt possess any negative values which is logical.
         However, chol variable do possess the maximum value up to 564 which is quite concerning. 
         
+        ![Box-Plot](static/boxplot_heart.png)
+        
      5. How to choose the features to make the best out of the provided data?
         Used Logistic Regression to select continuous features with more than 50% accuracy
         Used Cramers'V to select categorical features with more than 50% accuracy as well
