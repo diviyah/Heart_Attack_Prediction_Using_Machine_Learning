@@ -2,6 +2,7 @@
 <a><img alt='kg' src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <a><img alt='kg' src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white"></a>
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+![info](https://user-images.githubusercontent.com/105897390/174782470-20d6e2e2-454b-4199-8e36-e1fd187df16a.jpg)
 
 
 # Heart_Attack_Prediction_Using_Machine_Learning
@@ -53,13 +54,13 @@ Questions:
         
      4. Do we have extreme values?
         The data didnt possess any negative values which is logical.
-        However, chol variable do possess the maximum value up to 564 which is quite concerning. 
-        
-        ![Box-Plot](static/boxplot_heart.png)
+        However, chol variable do possess the maximum value up to 564 which is quite concerning.  
         
      5. How to choose the features to make the best out of the provided data?
         Used Logistic Regression to select continuous features with more than 50% accuracy
         Used Cramers'V to select categorical features with more than 50% accuracy as well
+
+![boxplot_heart](https://user-images.githubusercontent.com/105897390/174783642-8982636d-4a8f-4a23-86ea-070a3cbd5df6.png)
 
 
 ### MODEL DEVELOPMENT
@@ -69,8 +70,12 @@ Questions:
     
      The 0 values then has been imputed by using Simple Imputer with the feature's mode value
      Then, the model has heightened it's accuracy to 80.2198%
-    
+
+
+
      Both the pipeline and GridSearchCV model had the same accuracy. 
      Thus, pipeline model is chosen to be executed for the app deployment. 
+![classification_report](https://user-images.githubusercontent.com/105897390/174783216-cf0f4aaf-e325-4139-8d59-a5419da339c1.png)
 
-## All the relevant images are in the folder named Static. 
+
+
