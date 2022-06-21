@@ -62,7 +62,11 @@ Questions:
 
 ![boxplot_heart](https://user-images.githubusercontent.com/105897390/174783642-8982636d-4a8f-4a23-86ea-070a3cbd5df6.png)
 ![output](https://user-images.githubusercontent.com/105897390/174786416-25cd8162-a380-4287-8780-540f8331ba28.png)
-The target variable namely output is considered balanced.
+The target variable namely output depicts that we have 165 person with heart disease and 138 person without heart disease, so our problem is considered balance.
+
+
+![msno](https://user-images.githubusercontent.com/105897390/174786918-90b60b39-ebfd-42a3-8c91-cf264c8ba74c.png)
+And no null values! :)
 
 ### MODEL DEVELOPMENT
      Built machine learning model using both pipeline and GridSearchCV methods.
