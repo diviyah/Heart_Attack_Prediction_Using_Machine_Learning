@@ -83,4 +83,10 @@ And no null values! :)
 ![classification_report](https://user-images.githubusercontent.com/105897390/174783216-cf0f4aaf-e325-4139-8d59-a5419da339c1.png)
 
 
+### Last but not least!
+Model has been deployed in Streamlit app. and this is how it looks like
+
+![streamlit_model_deployment](https://user-images.githubusercontent.com/105897390/174790422-8295df1f-f1e1-4d8f-ab89-6ace255144ce.png)
+
+
 
