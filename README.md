@@ -6,7 +6,7 @@
 
 # Heart_Attack_Prediction_Using_Machine_Learning
  Trained machine learning model to solve the heart attack classification problem using selected features. 
-![This is an image](static/info.jpg)
+
 
 According to World Health Organisation (WHO), every year around 17.9 million 
 deaths are due to cardiovascular diseases (CVDs) predisposing CVD becoming 
