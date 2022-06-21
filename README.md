@@ -73,4 +73,4 @@ Questions:
      Both the pipeline and GridSearchCV model had the same accuracy. 
      Thus, pipeline model is chosen to be executed for the app deployment. 
 
-
+## All the relevant images are in the folder named Static. 
